@@ -1,0 +1,2 @@
+how to run:
+./analyse.py | sort -t, -k 2 -rn > eyeball-hhi.csv
