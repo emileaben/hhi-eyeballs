@@ -1,2 +1,4 @@
 how to run:
-./analyse.py | sort -t, -k 2 -rn > eyeball-hhi.csv
+./analyse.py <YYYY-MM_DD>
+
+# make sure the corresponding data was downloaded to disk (see down.sh script for example on how)
